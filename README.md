@@ -5,7 +5,10 @@
   <img src="https://img.shields.io/badge/Field-Electronics%20%26%20Embedded-blue" />
   <img src="https://img.shields.io/badge/Focus-Digital%20Design%20%7C%20RISC--V-green" />
   <img src="https://img.shields.io/badge/Tools-LTspice%20%7C%20Verilog%20%7C%20Python-orange" />
+  <img src="https://img.shields.io/badge/Domain-Communication%20Engineering-red" />
+  <img src="https://img.shields.io/badge/Domain-Computer%20Architecture-purple" />
 </p>
+
 
 ---
 
