@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Hello, I'm Pratik Suryavanshi ⚡</h1>
+<h1 align="center">⚡ Hello, I'm Partik Suryavanshi ⚡</h1>
 <h3 align="center">Electrical Engineering Student @ IIT Delhi</h3>
 
 <p align="center">
