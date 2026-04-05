@@ -7,15 +7,15 @@
   <img src="https://img.shields.io/badge/Tools-LTspice%20%7C%20Verilog%20%7C%20Python-orange" />
   <img src="https://img.shields.io/badge/Domain-Communication%20Engineering-red" />
   <img src="https://img.shields.io/badge/Domain-Computer%20Architecture-purple" />
+  <img src="https://img.shields.io/badge/Domain-Machine%20Learning-yellow" />
 </p>
-
 
 ---
 
 ## 🔌 About Me
-- ⚙️ Working in **circuit design**, **simulation**, and **computer architecture**
+- ⚙️ Working in **circuit design**, **simulation**, **computer architecture**, and **machine learning**
 - 🧩 Skilled with **Python**, **C++**, **RISC-V**, **Verilog**, **LTspice**
-- 🔭 Interested in **hardware-software co-design** and **processor design**
+- 🔭 Interested in **hardware-software co-design**, **processor design**, and **ML applications**
 - 📧 Email: **pratiksuryavanshi02002@gmail.com**
 
 ---
@@ -26,3 +26,4 @@ Programming     : Python, C++
 Hardware Design : RISC-V, Verilog (RTL)
 Simulation      : LTspice, LogicSim
 Electronics     : Digital Circuits, CMOS Basics
+Machine Learning: ML Models, Data Analysis
