@@ -24,6 +24,6 @@
 ```text
 Programming     : Python, C++
 Hardware Design : RISC-V, Verilog (RTL)
-Simulation      : LTspice, LogicSim
+Simulation      : LTspice
 Electronics     : Digital Circuits, CMOS Basics
 Machine Learning: ML Models, Data Analysis
